@@ -19,9 +19,7 @@ body {
     height: 100%;
     font-family: "Poppins", sans-serif;
     place-items: center;
-    background: url("https://www.hdwallpapers.in/download/mount_bromo_volcano_sunrise_4k-1920x1080.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
+    background: linear-gradient(315deg, #1a1616, #242629);
 }
 
 a {
