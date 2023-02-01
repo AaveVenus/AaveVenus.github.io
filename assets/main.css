@@ -19,7 +19,9 @@ body {
     height: 100%;
     font-family: "Poppins", sans-serif;
     place-items: center;
-    background: url("https://images.pexels.com/photos/1287145/pexels-photo-1287145.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&dpr=1");
+    background: url("https://www.hdwallpapers.in/download/mount_bromo_volcano_sunrise_4k-wide.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 a {
@@ -93,6 +95,13 @@ a {
 .wrapper .instagram:hover .tooltip,
 .wrapper .instagram:hover .tooltip {
     background: #E4405F;
+    color: #ffffff;
+}
+
+.wrapper .telegram:hover,
+.wrapper .telegram:hover .tooltip,
+.wrapper .telegram:hover .tooltip {
+    background: #0088cc;
     color: #ffffff;
 }
 
