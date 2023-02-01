@@ -19,7 +19,7 @@ body {
     height: 100%;
     font-family: "Poppins", sans-serif;
     place-items: center;
-    background: linear-gradient(315deg, #1a1616, #242629);
+    background: url("https://images.pexels.com/photos/1287145/pexels-photo-1287145.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&dpr=1");
 }
 
 a {
